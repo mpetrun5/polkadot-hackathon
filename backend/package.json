@@ -1,0 +1,20 @@
+{
+  "name": "polkadot-back-end",
+  "version": "0.1.0",
+  "description": "Display information about latest block on polkadot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpetrun5/polkadot-hackathon"
+  },
+  "keywords": [
+    "polkadot"
+  ],
+  "author": "mpetrun5",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
